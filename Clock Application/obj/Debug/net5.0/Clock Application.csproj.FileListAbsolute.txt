@@ -1,0 +1,16 @@
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.exe
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.deps.json
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.runtimeconfig.json
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.runtimeconfig.dev.json
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.dll
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\ref\Clock Application.dll
+C:\Users\hiiam\source\repos\Clock Application\bin\Debug\net5.0\Clock Application.pdb
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.csprojAssemblyReference.cache
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.AssemblyInfoInputs.cache
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.AssemblyInfo.cs
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.csproj.CoreCompileInputs.cache
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.dll
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\ref\Clock Application.dll
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.pdb
+C:\Users\hiiam\source\repos\Clock Application\obj\Debug\net5.0\Clock Application.genruntimeconfig.cache

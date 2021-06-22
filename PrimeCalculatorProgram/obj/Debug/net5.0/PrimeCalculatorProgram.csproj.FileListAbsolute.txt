@@ -1,0 +1,16 @@
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.AssemblyInfoInputs.cache
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.AssemblyInfo.cs
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.exe
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.deps.json
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.runtimeconfig.json
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.runtimeconfig.dev.json
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.dll
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\ref\PrimeCalculatorProgram.dll
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\bin\Debug\net5.0\PrimeCalculatorProgram.pdb
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.dll
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\ref\PrimeCalculatorProgram.dll
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.pdb
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.genruntimeconfig.cache
+C:\Users\hiiam\source\repos\PrimeCalculatorProgram\obj\Debug\net5.0\PrimeCalculatorProgram.csproj.AssemblyReference.cache
